@@ -11,3 +11,5 @@ int main(){
     }
     return 0;
 }
+//if((n&1)==0)cout<<"even";else if((n&1)==1)cout<<"Odd";
+//e.g6-> 110&001-> 000 ->even , 7 -> 111&001->001-> Odd
